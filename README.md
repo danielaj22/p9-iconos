@@ -2,7 +2,8 @@
 
 A new Flutter project.
 ## salida de iconos
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/81eaae9e-08e6-4635-a116-6877b7ade590)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
